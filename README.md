@@ -173,10 +173,11 @@ match string {
     - https://api.exchangerate-api.com/v4/latest/USD
     - https://www.coingecko.com/en/api
     - https://developers.coinbase.com/api/v2
+    - https://crates.io/crates/moneta
   - Timezones
   - Binary/octal/decimal/hexadecimal/base32/base64
   - Fuel consumption
-  - Data transfer rate
+  - ~~Data transfer rate~~
   - Color codes
   - Force
   - Roman numerals
